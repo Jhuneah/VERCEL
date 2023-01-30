@@ -83,4 +83,4 @@ ws4py==0.5.1
 zc.lockfile==2.0
 zoom==0.0.15
 zope.event==4.5.0
-zope.interface==5.5.
+zope.interface==5.5.1
