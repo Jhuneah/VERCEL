@@ -50,7 +50,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'YOUTUBE.urls'
-import os
+import os,sys,notepad
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
